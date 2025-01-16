@@ -1,0 +1,4 @@
+/flask_env
+/node_modules
+.env
+__pycache__
